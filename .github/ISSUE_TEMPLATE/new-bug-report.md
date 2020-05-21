@@ -1,22 +1,16 @@
 ---
-name: New bug report
-about: Use this option to report a bug. You must use this option for your report to
-  be investigated.
-title: ''
-labels: ''
-assignees: ''
+name: Audio bug after interstitial ad
+
 
 ---
 
 <!-- You must use this template or your issue will be closed without investigation. Please see the guidelines. -->
 
 ## Problem description
-
-<!-- Enter a concise description of your problem here -->
+Sound fx is gone after interstitial ad finishes.
 
 ## Attach a .c3p
 
-<!-- A minimal Construct 3 project (.c3p) is required to be attached. Your issue will likely be closed without investigation if you don't provide one. Please see the guidelines -->
 
 ## Steps to reproduce
 
